@@ -40,4 +40,23 @@ public class StringOperators {
           }
           return "";
       }
+  public static int findHowManyTimesSubstringInFullString(String full, String n){
+// 	    String full = "weababccfsdfabc asdabcweabcfsdfabc asdabc";
+// 	    String n 	= "abc";
+	    int pos 	= full.indexOf(n);
+	    if(pos<0){
+	    	 System.out.println("Not found substring in full text");
+	    	 return;
+	     }
+	    int counter	= 0;
+	    int pointer = 0;
+	    do{
+	    	if(pointer < 0) break;
+	    	counter++;
+	    	pos = full.indexOf(n, pointer + n.length());
+	    	pointer = pos;
+	    }while(pointer < full.length());
+	    
+	    System.out.println("Found number of substrings: " + counter);
+}
 }
