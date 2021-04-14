@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5CCD-36AC
+
+ Directory of C:\Users\krzysztof.gumulak\github\javaStringLibs
+
+04/14/2021  04:15 PM    <DIR>          .
+04/14/2021  04:15 PM    <DIR>          ..
+04/14/2021  03:46 PM            13,124 ax.java
+04/14/2021  04:15 PM                 0 dover_branch.txt
+04/14/2021  03:46 PM             2,842 Logger.java
+04/14/2021  03:46 PM                78 README.md
+04/14/2021  03:46 PM             2,154 StringOperators.java
+04/14/2021  03:46 PM             9,501 TakePhoto.java
+04/14/2021  03:46 PM            13,010 TestExcel.java
+               7 File(s)         40,709 bytes
+               2 Dir(s)  118,447,955,968 bytes free
