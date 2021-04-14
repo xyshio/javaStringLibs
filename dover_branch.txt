@@ -1,7 +1,7 @@
  Volume in drive C is Windows
  Volume Serial Number is 5CCD-36AC
 
- Directory of C:\Users\krzysztof.gumulak\github\javaStringLibs
+ Directory of C:\Users\dover\github\javaStringLibs
 
 04/14/2021  04:15 PM    <DIR>          .
 04/14/2021  04:15 PM    <DIR>          ..
